@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+vaderSentiment
+google-api-python-client
+jinja2
